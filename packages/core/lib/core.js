@@ -9,3 +9,7 @@ function core() {
 exports.hello = function() {
     console.log(`this is hello`);
 };
+
+exports.test = function() {
+    console.log(`this is test`);
+};
