@@ -21,12 +21,15 @@
     "url": "git+https://github.com/why520crazy/ts-mono.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "jest"
   },
   "bugs": {
     "url": "https://github.com/why520crazy/ts-mono/issues"
   },
   "dependencies": {
     "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
   }
 }

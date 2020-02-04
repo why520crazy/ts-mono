@@ -1,7 +1,9 @@
-'use strict';
+"use strict";
 
-const common = require('..');
+const common = require("..");
 
-describe('@ts-mono/common', () => {
-    it('needs tests');
+describe("@ts-mono/common", () => {
+    it("needs tests", () => {
+        common();
+    });
 });

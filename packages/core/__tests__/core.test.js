@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-const core = require('..');
+const core = require("..");
 
-describe('@ts-mono/core', () => {
-    it('needs tests');
+describe("@ts-mono/core", () => {
+    it("needs tests", () => {});
 });
