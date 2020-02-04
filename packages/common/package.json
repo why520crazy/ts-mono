@@ -1,0 +1,29 @@
+{
+  "name": "@ts-mono/common",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "why520crazy <why520crazy@163.com>",
+  "homepage": "https://github.com/why520crazy/ts-mono#readme",
+  "license": "ISC",
+  "main": "src/common.js",
+  "directories": {
+    "lib": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/why520crazy/ts-mono.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/why520crazy/ts-mono/issues"
+  }
+}
