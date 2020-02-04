@@ -1,9 +1,14 @@
 "use strict";
 
-exports.hello = function() {
+const hello = function() {
     console.log(`this is hello from core`);
 };
 
-exports.test = function() {
+const test = function() {
     console.log(`this is test`);
+};
+
+module.exports = {
+    test,
+    hello
 };
