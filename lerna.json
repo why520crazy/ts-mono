@@ -10,6 +10,9 @@
       "verifyAccess": false,
       "verifyRegistry": false,
       "message": "chore: publish"
+    },
+    "version": {
+      "conventionalCommits": true
     }
   },
   "version": "0.0.5"
