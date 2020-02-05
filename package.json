@@ -3,6 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "devDependencies": {
-    "lerna": "^3.20.2"
+    "@types/node": "^13.7.0",
+    "lerna": "^3.20.2",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "@ts-mono/core": "^0.1.0"
   }
 }

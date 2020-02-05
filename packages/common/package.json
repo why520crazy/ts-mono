@@ -5,9 +5,9 @@
   "author": "why520crazy <why520crazy@163.com>",
   "homepage": "https://github.com/why520crazy/ts-mono#readme",
   "license": "ISC",
-  "main": "src/common.js",
+  "main": "lib/common.js",
   "directories": {
-    "lib": "src",
+    "lib": "lib",
     "test": "__tests__"
   },
   "files": [
@@ -21,6 +21,7 @@
     "url": "git+https://github.com/why520crazy/ts-mono.git"
   },
   "scripts": {
+    "build": "tsc",
     "test": "jest"
   },
   "bugs": {
@@ -28,5 +29,6 @@
   },
   "devDependencies": {
     "jest": "^25.1.0"
-  }
+  },
+  "gitHead": "460c9bc9f00aebc411ea49d1f8cf0520289ec2be"
 }
