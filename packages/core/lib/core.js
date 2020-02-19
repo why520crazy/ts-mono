@@ -12,7 +12,6 @@ const test1 = function() {
     console.log(`this is test1`);
 };
 
-
 module.exports = {
     test,
     hello,
