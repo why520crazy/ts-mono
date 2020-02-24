@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/why520crazy/ts-mono/compare/v0.2.0...v0.3.0) (2020-02-24)
+
+
+### Features
+
+* **core:** add test ([abd1c4c](https://github.com/why520crazy/ts-mono/commit/abd1c4c769f648388edb22f24dd2e4ab8d675d1b))
+
+
+
+
+
 # [0.2.0](https://github.com/why520crazy/ts-mono/compare/v0.1.0...v0.2.0) (2020-02-05)
 
 
