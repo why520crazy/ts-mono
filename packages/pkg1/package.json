@@ -31,6 +31,6 @@
     "url": "https://github.com/why520crazy/ts-mono/issues"
   },
   "dependencies": {
-    "@ts-mono/core": "^0.0.2"
+    "@ts-mono/core": "*"
   }
 }
