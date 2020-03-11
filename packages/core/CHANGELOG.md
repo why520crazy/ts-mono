@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.4](https://github.com/why520crazy/ts-mono/compare/v0.4.3...v0.4.4) (2020-03-11)
+
+
+### Bug Fixes
+
+* remove prepare ([d6629c0](https://github.com/why520crazy/ts-mono/commit/d6629c0f47aa12b6e15fe1f307cdea27b656d518))
+
+
+
+
+
 ## [0.4.3](https://github.com/why520crazy/ts-mono/compare/v0.4.1...v0.4.3) (2020-03-11)
 
 
