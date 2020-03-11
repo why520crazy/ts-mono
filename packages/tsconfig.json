@@ -3,6 +3,6 @@
     "references": [
         { "path": "core" },
         { "path": "pkg1" },
-        { "path": "common" }
+        { "path": "pkg2" }
     ]
 }

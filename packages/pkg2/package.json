@@ -1,0 +1,29 @@
+{
+  "name": "@ts-mono/pkg2",
+  "version": "0.3.0",
+  "description": "> TODO: description",
+  "author": "why520crazy <why520crazy@163.com>",
+  "homepage": "https://github.com/why520crazy/ts-mono#readme",
+  "license": "ISC",
+  "main": "lib/pkg2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/why520crazy/ts-mono.git"
+  },
+  "scripts": {
+    "test": "echo \"no test\""
+  },
+  "bugs": {
+    "url": "https://github.com/why520crazy/ts-mono/issues"
+  }
+}

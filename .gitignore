@@ -68,3 +68,4 @@ api-doc-site
 .history
 .codecounter
 tsconfig.tsbuildinfo
+lib

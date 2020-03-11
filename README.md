@@ -5,5 +5,7 @@
 ## Development
 
 ```
-lerna bootstrap
+yarn
+yarn test
+yarn build
 ```
