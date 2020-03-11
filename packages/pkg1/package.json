@@ -1,6 +1,6 @@
 {
   "name": "@ts-mono/pkg1",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "description": "> TODO: description",
   "author": "why520crazy <why520crazy@163.com>",
   "homepage": "https://github.com/why520crazy/ts-mono#readme",
@@ -31,6 +31,6 @@
     "url": "https://github.com/why520crazy/ts-mono/issues"
   },
   "dependencies": {
-    "@ts-mono/core": "^0.4.7"
+    "@ts-mono/core": "^0.4.8"
   }
 }

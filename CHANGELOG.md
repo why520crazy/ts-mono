@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.8](https://github.com/why520crazy/ts-mono/compare/v0.4.7...v0.4.8) (2020-03-11)
+
+
+### Bug Fixes
+
+* commit message contains version ([cc457ee](https://github.com/why520crazy/ts-mono/commit/cc457ee8a644f938f43836f5dd4987df46dd5314))
+* set noGitTagVersion and noPush as true for version ([7ac0e46](https://github.com/why520crazy/ts-mono/commit/7ac0e4618a52d3273febb91be9e1968561811743))
+* **core:** change hello2 to hello3 ([2f59b8d](https://github.com/why520crazy/ts-mono/commit/2f59b8d33eb9930bdcc35611fb2180168a10a58a))
+
+
+
+
+
 ## [0.4.7](https://github.com/why520crazy/ts-mono/compare/v0.4.6...v0.4.7) (2020-03-11)
 
 
