@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.6](https://github.com/why520crazy/ts-mono/compare/v0.4.5...v0.4.6) (2020-03-11)
+
+
+### Bug Fixes
+
+* change hello1 to hello2 ([0f1aa6b](https://github.com/why520crazy/ts-mono/commit/0f1aa6b5a40bc87fc6b50d5366d716ae47c17141))
+
+
+
+
+
 ## [0.4.5](https://github.com/why520crazy/ts-mono/compare/v0.4.4...v0.4.5) (2020-03-11)
 
 
