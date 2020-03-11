@@ -38,6 +38,5 @@
   "devDependencies": {
     "@types/uuid": "^7.0.0",
     "jest": "^25.1.0"
-  },
-  "gitHead": "460c9bc9f00aebc411ea49d1f8cf0520289ec2be"
+  }
 }
