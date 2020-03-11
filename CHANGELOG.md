@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.3](https://github.com/why520crazy/ts-mono/compare/v0.4.1...v0.4.3) (2020-03-11)
+
+
+### Bug Fixes
+
+* **core:** add prepare script ([50155f5](https://github.com/why520crazy/ts-mono/commit/50155f51788a6c9880765314116f5b67e5ff654b))
+* add core and pkg1 to workspaces ([3fe17af](https://github.com/why520crazy/ts-mono/commit/3fe17af934a24811fea05963de765932f0a546dd))
+* pkg1 ([ea793a4](https://github.com/why520crazy/ts-mono/commit/ea793a48a4a578120f0215b78336eb9988a4e2a4))
+* remove publish command options ([f3aa832](https://github.com/why520crazy/ts-mono/commit/f3aa8326e2564c2fbd4761aef621bc6ce76ee333))
+
+
+
+
+
 ## [0.4.2](https://github.com/why520crazy/ts-mono/compare/v0.4.1...v0.4.2) (2020-03-11)
 
 

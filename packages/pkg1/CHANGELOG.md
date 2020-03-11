@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.3](https://github.com/why520crazy/ts-mono/compare/v0.4.1...v0.4.3) (2020-03-11)
+
+
+### Bug Fixes
+
+* pkg1 ([ea793a4](https://github.com/why520crazy/ts-mono/commit/ea793a48a4a578120f0215b78336eb9988a4e2a4))
+
+
+
+
+
 ## [0.4.1](https://github.com/why520crazy/ts-mono/compare/v0.4.0...v0.4.1) (2020-03-11)
 
 
