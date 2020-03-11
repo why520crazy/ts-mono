@@ -2,12 +2,17 @@
   "name": "root",
   "private": true,
   "version": "0.0.0",
+  "scripts": {
+    "preinstall": "node scripts/check-yarn.js",
+    "test": "yarn workspaces run test",
+    "build": "yarn workspaces run build"
+  },
   "devDependencies": {
     "@types/node": "^13.7.0",
     "lerna": "^3.20.2",
     "typescript": "^3.7.5"
   },
-  "dependencies": {
-    "@ts-mono/core": "^0.1.0"
-  }
+  "workspaces": [
+		"./packages/*"
+	]
 }
