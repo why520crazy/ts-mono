@@ -7,6 +7,14 @@
   "command": {
     "version": {
       "conventionalCommits": true
+    },
+    "publish": {
+      "ignoreChanges": [
+        "*.md"
+      ],
+      "verifyAccess": false,
+      "verifyRegistry": false,
+      "message": "chore: release %v"
     }
   },
   "version": "0.4.7"
