@@ -5,7 +5,9 @@
   "scripts": {
     "preinstall": "node scripts/check-yarn.js",
     "test": "yarn workspaces run test",
-    "build": "yarn workspaces run build"
+    "build": "yarn workspaces run build",
+    "version": "lerna version",
+    "publish": "lerna publish"
   },
   "devDependencies": {
     "@types/node": "^13.7.0",
