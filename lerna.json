@@ -6,7 +6,9 @@
   "useWorkspaces": true,
   "command": {
     "version": {
-      "conventionalCommits": true
+      "conventionalCommits": true,
+      "noGitTagVersion": true,
+      "noPush": true
     },
     "publish": {
       "ignoreChanges": [
@@ -14,7 +16,7 @@
       ],
       "verifyAccess": false,
       "verifyRegistry": false,
-      "message": "chore: release %v"
+      "message": "chore: release %s"
     }
   },
   "version": "0.4.7"
