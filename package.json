@@ -15,6 +15,7 @@
     "typescript": "^3.7.5"
   },
   "workspaces": [
-		"./packages/*"
+    "./packages/core",
+		"./packages/pkg1"
 	]
 }
