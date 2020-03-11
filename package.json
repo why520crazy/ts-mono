@@ -7,7 +7,8 @@
     "test": "yarn workspaces run test",
     "build": "yarn workspaces run build",
     "version": "lerna version",
-    "publish": "lerna publish"
+    "publish": "lerna publish",
+    "pub": "yarn workspaces run build && yarn workspaces run pub"
   },
   "devDependencies": {
     "@types/node": "^13.7.0",

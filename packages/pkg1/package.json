@@ -21,9 +21,11 @@
     "url": "git+https://github.com/why520crazy/ts-mono.git"
   },
   "scripts": {
-    "pretest": "npm run build",
+    "// prepare": "yarn build",
+    "pretest": "tsc -b",
+    "build": "tsc -b",
     "test": "jest",
-    "build": "tsc -b"
+    "pub": "npm publish --access=public"
   },
   "bugs": {
     "url": "https://github.com/why520crazy/ts-mono/issues"
