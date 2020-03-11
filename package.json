@@ -8,7 +8,8 @@
     "build": "yarn workspaces run build",
     "version": "lerna version",
     "publish": "lerna publish",
-    "pub": "yarn workspaces run build && yarn workspaces run pub"
+    "pub": "lerna publish from-git",
+    "// pub": "yarn workspaces run build && yarn workspaces run pub"
   },
   "devDependencies": {
     "@types/node": "^13.7.0",
