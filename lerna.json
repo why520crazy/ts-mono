@@ -16,7 +16,9 @@
       ],
       "verifyAccess": false,
       "verifyRegistry": false,
-      "message": "chore: release %s"
+      "message": "chore: release %s",
+      "noGitTagVersion": true,
+      "noPush": true
     }
   },
   "version": "0.4.8"
